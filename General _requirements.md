@@ -3,7 +3,7 @@
 
 1. This is the contest for the applications on InterSystems IRIS or InterSystem IRIS for Health.
 2. Participating application must be approved and published on [InterSystems Open Exchange](http://openexchange.intersystems.com/).
-3. Participating application must be posted on [Github](github.com) and licensed under an Open Sourced license (e.g. MIT License, [learn more](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)).
+3. Participating application must be posted on [Github](github.com) and licensed under an Open Source license (e.g. MIT License, [learn more](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)).
 4. Both existing and new applications can participate in the contest.
 5. One contestant can submit an unlimited number of applications.
 
