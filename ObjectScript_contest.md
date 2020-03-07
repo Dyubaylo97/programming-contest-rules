@@ -1,4 +1,4 @@
-##InterSystems IRIS, Docker and ObjectScript
+## InterSystems IRIS, Docker and ObjectScript
 We will choose the best application built using InterSystems ObjectScript and which could be launched on either [InterSystems IRIS Community Edition](https://hub.docker.com/_/intersystems-iris-data-platform/plans/222f869e-567c-4928-b572-eb6a29706fbd?tab=instructions),
 or [InterSystems IRIS for Health Community Edition] (https://hub.docker.com/_/intersystems-iris-for-health/plans/80ae1325-d535-484e-8307-b643c2865dd8?tab=instructions).
 
