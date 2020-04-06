@@ -1,7 +1,7 @@
 # ObjectScript Linter
 ## ObjectScript Errors check
 
-RequiredArgumentOmitted
+**RequiredArgumentOmitted**
 For example Method A defined with two arguments required arguments, but called with one.
 
 TooManyArguments.
