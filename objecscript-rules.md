@@ -29,3 +29,9 @@ ClassNotFound
 
 MethodLackReturnType.
     Method is used in expression but has no ReturnType in definition
+    
+## ObjectScript Style check
+No dot syntax in stack
+    prohibit stacking with dots
+
+
