@@ -23,7 +23,7 @@ Here are technology bonuses for this contest:
 
 ZPM package - The solution might be installed via ZPM package;
 [Open API (swagger)](https://swagger.io/specification/) documentation, available at /_spec endpoint of your REST API.
-```
+
 [Sample Application](https://openexchange.intersystems.com/package/objectscript-rest-docker-template)
 
 **Don't forget to highlight in README.md of your repository how it could be used.**
