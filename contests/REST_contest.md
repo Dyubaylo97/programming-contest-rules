@@ -1,4 +1,3 @@
-## Topic of the Contest
 In this programming contest, we will accept applications that meet the **ObjectScript REST API** requirement. 
 Your application could be a library, package or tool which exposes REST API or Web Sockets interface built on InterSystems IRIS or InterSystems IRIS for Health.
 
@@ -22,9 +21,10 @@ If the application satisfies some additional requirements listed below it gets a
 Here are the technology bonuses for this contest:
 
 - ZPM package - The solution should be installed via ZPM package
-- [Open API (swagger)](https://swagger.io/specification/) documentation, available at /_spec endpoint of your REST API.
+- [Open API (swagger)](https://swagger.io/specification/) documentation, available at /_spec endpoint of your REST API
+- Spec first approach - REST API generated from swagger spec using [Open API](https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=GREST_apimgmnt#GREST_apimgmnt_create) service of InterSystems IRIS.
 
-[Sample Application](https://openexchange.intersystems.com/package/objectscript-rest-docker-template)
+[Sample Application](https://openexchange.intersystems.com/package/objectscript-contest-template)
 
 **Don't forget to highlight in README of your application how it should be used.**
 
