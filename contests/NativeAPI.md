@@ -1,5 +1,5 @@
 In this programming contest, we will accept applications that meet the **IRIS NATIVE API** requirement. 
-Your application could be a library,  package, tool, or any solution which uses any of InterSystems IRIS Native API: .NET, Java, Python, node.js. 
+Your application could be a library,  package, tool, or any solution which uses any of InterSystems IRIS Native API: [.NET](https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_dotnet), [Java](https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_java), [Python](https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_python_native), [node.js](https://docs.intersystems.com/irislatest/csp/docbook/Doc.View.cls?KEY=PAGE_nodejs_native). 
 
 The application should work either on [InterSystems IRIS Community Edition](https://hub.docker.com/_/intersystems-iris-data-platform/plans/222f869e-567c-4928-b572-eb6a29706fbd?tab=instructions),
 or on [InterSystems IRIS for Health Community Edition](https://hub.docker.com/_/intersystems-iris-for-health/plans/80ae1325-d535-484e-8307-b643c2865dd8?tab=instructions).
