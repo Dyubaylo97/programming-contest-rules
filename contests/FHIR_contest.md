@@ -6,23 +6,17 @@ The application should work either on [InterSystems IRIS Community Edition](http
 The application should be Open Source and published on GitHub.
 
 ### Technology bonuses
-
-If the application satisfies some additional requirements listed below it gets additional technology votes, one per each requirement. 
-
 *There technology bonuses if you introduce special technology implementations in your application. Stay tuned for bonuses descriptions.*
 
 ### Sample application
-
-
-Here is the application template, which meet the requirements and demonstrates the work of:
-[FHIR Server and API Manager](https://openexchange.intersystems.com/package/FHIR-Server-and-API-Manager-for-MIT-COVID-19-Challenge)
+*Templates will be published soon.*
 
 **Don't forget to highlight in README of your application how it should be used.**
 
-## How to Apply
-Log in to Open Exchange, open your application page, make sure that it meets the requirements, and click the "Apply for Contest" button. Your application will be sent for approval and once approved will appear on the Contest page eventually.
+## How to apply
+Log in to [Open Exchange](https://openexchange.intersystems.com), open your application page, make sure that it meets the requirements, and click the "Apply for Contest" button. Your application will be sent for approval and once approved will appear on the Contest page eventually.
 
-## Prizes and Nomination
+## Prizes and nominations
 **Experts Nomination**
 - 1st place - $2,000
 - 2nd place - $1,000
@@ -32,9 +26,9 @@ Log in to Open Exchange, open your application page, make sure that it meets the
 - 1st place - $1,000
 - 2nd place - $500
 
-## Terms and Conditions, Rules and Judgment Criteria
-By participating in the Contest you agree with the following [Terms and Conditions](https://openexchange.intersystems.com/markdown?url=/assets/doc/contest-terms.md).
+## Terms and conditions, rules and judgment criteria
+By participating in the contest you agree with the following [Terms and Conditions](https://openexchange.intersystems.com/markdown?url=/assets/doc/contest-terms.md).
 
-[Read and discuss the rules, nominations, and judgment criteria](https://bit.ly/31mdLip).
+Visit the [contest landing page](https://bit.ly/31mdLip) to read and discuss the rules, nominations, and judgment criteria.
 
-Join the [Discord channel](https://discord.gg/dzzPDvY) to chat about requirements, technology, voting, etc.
+Join [InterSystems Discord channel](https://discord.gg/dzzPDvY) to chat about requirements, technology, voting, etc.
